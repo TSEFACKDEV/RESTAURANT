@@ -18,6 +18,8 @@ header{
     top: 0;
     left: 0;
     width: 100%;
+    background: white;
+    box-shadow: 0 0 10px #030622;
 }
 
 header h1{
